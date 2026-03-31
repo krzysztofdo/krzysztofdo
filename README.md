@@ -1,25 +1,25 @@
-# Krzysztof Dobosz | Principal AI Compiler Engineer
+# Krzysztof Dobosz | AI Product Director
 
-> **Architecting the future of Edge AI through high-performance compiler optimizations and hardware-aware neural acceleration.**  
-> Focused on bridging the gap between cutting-edge Machine Learning models and silicon constraints at **Imagination Technologies**.
+> **Strategizing the future of AI Products through Generative AI, Graph Neural Networks, and Personalized Systems.**  
+> Currently leading AI initiatives as **AI Product Director at InPost Group** and contributing to the academic community as a **Lecturer at the University of Warsaw**.
 
 ---
 
-### ðŸ› ï¸ Technical Ecosystem
+### ðŸ› ï¸ Strategic & Technical Expertise
 
-| **Core Specialization** | **Hardware & Low-Level** |
+| **AI Leadership** | **Advanced AI Research** |
 | :--- | :--- |
-| **AI Compilers:** TVM, Glow, MLIR, Custom NNA Backends | **Architecture:** RISC-V, MIPS, NVIDIA CUDA, Imagination NNA |
-| **Deep Learning:** PyTorch, TensorFlow, Model Quantization | **Systems:** C++, Rust, Python, LLVM, SIMD Optimization |
-| **Performance:** Distributed Training, Kernel Tuning, Latency Optimization | **Tooling:** CMake, Docker, Jenkins, Git, GDB/Valgrind |
+| **Product Strategy:** GenAI Roadmaps, AI Agents, AI Assistants | **Graph Neural Networks (GNN):** Published author of "Grafowe sieci neuronowe" |
+| **Personalization:** Scaling Data Science products for logistics & social domains | **Deep Learning:** Specialized in GNNs, NLP, and Agentic Workflows |
+| **Academic:** Elective courses at the Faculty of Economic Sciences (UW) | **Technologies:** Python, PyTorch, LLMs (Text-to-SQL), Pandas |
 
 ---
 
-### ðŸš€ Professional Impact @ Imagination Technologies
+### ðŸ“š Published Work & Academic Impact
 
-- **NNA Backend Optimization:** Leading the development of high-throughput compiler backends for next-generation Neural Network Accelerators.
-- **Hardware-Software Co-design:** Collaborating with silicon architects to define ISA extensions for optimized AI workload execution.
-- **Kernel Excellence:** Authored high-performance C++/SIMD kernels reducing inference latency by up to 30% on edge devices.
+- **Author:** *"Grafowe sieci neuronowe"* (Grupa Helion SA) â€” A comprehensive guide to GNNs.
+- **Lecturer:** Faculty of Economic Sciences, **University of Warsaw**.
+- **Speaker:** Frequent contributor to AI meetups (Dive into Data) focusing on GenAI and AI Agents.
 
 ---
 
@@ -32,10 +32,10 @@
 
 ---
 
-### ðŸ“« Contact & Networks
+### ðŸ“« Connect & Networks
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Krzysztof%20Dobosz-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/krzysztof-dobosz-13823683/)
-[![Email](https://img.shields.io/badge/Email-krzysztof.dobosz%40imgtec.com-D14836?style=flat-square&logo=gmail)](mailto:krzysztof.dobosz@imgtec.com)
+[![InPost Group](https://img.shields.io/badge/Company-InPost%20Group-FFD200?style=flat-square&logo=target)](https://inpost.pl/)
 
 ---
-*Principal AI Compiler Engineer | Imagination Technologies | AI Infrastructure | HPC*
+*AI Product Director | InPost Group | GNN Author | GenAI | AI Agents | Academic Lecturer*
